@@ -19,7 +19,7 @@ module.exports = {
     themes: [
       {
         cmyk: {
-          primary: "#0B5CFF",
+          primary: "#0B5CFF", //blue
           secondary: "#2C2C2C", //dark grey
           accent: "#C0A265", // Gold
           neutral: "#000000", // Black
